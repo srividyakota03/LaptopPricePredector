@@ -11,6 +11,15 @@ Once trained, the model can predict the estimated price of a laptop given its sp
 
 ---
 
+### Dataset
+
+This project uses a curated dataset of laptop specifications and their corresponding market prices. It includes features like brand, processor type, RAM, screen resolution, storage details, and more.
+
+- 📁 **File name:** `laptop_prices.csv`  
+- 🔗 **Download link:** [Click here to access the dataset](https://drive.google.com/file/d/1sU3TLwZA306lXScMvY_qgZs7-BvffSEw/view?usp=sharing)
+  
+---
+
 ## Key Features
 
 - Predict laptop price based on popular features like brand, RAM, storage, screen size, and more.
